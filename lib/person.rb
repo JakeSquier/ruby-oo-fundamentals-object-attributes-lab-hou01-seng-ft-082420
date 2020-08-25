@@ -5,6 +5,10 @@ class Person
     @job = job
   end
   
+  def name
+    @name
+  end 
   
+  def name 
 
 end
